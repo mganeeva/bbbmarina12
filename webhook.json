@@ -1,0 +1,5 @@
+{
+  "url" : "https://webhook-queue.gktest.net/message?install=l09VEJffQrq5RhFNP0aEtQ&repo=57ccdd92663d42ba8d2fcf31b06e41a7&bbb-secret=n54T0%2Bcha%2Ff6QNnVPlgAkhACUFnkGKF4",
+  "maxTries" : 3,
+  "sslVerify": true
+}
